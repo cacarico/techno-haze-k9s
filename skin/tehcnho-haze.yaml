@@ -1,0 +1,106 @@
+k9s:
+  body:
+    fgColor: "#F2B6EC"
+    bgColor: default
+    logoColor: "#D16FFF"
+
+  prompt:
+    fgColor: "#F2B6EC"
+    bgColor: default
+    suggestColor: "#B691FF"
+
+  help:
+    fgColor: "#F2B6EC"
+    bgColor: default
+    sectionColor: "#FF9CEE"
+    keyColor: "#C560F7"
+    numKeyColor: "#FF88DC"
+
+  info:
+    sectionColor: "#F093FB"
+    fgColor: "#E0A8FF"
+
+  dialog:
+    fgColor: "#F2B6EC"
+    bgColor: default
+    buttonFgColor: "#1A0F2E"
+    buttonBgColor: "#FF61C7"
+    buttonFocusFgColor: "#1A0F2E"
+    buttonFocusBgColor: "#C560F7"
+    labelFgColor: "#ECAFFF"
+    fieldFgColor: "#FFB1E1"
+
+  frame:
+    title:
+      fgColor: "#C560F7"
+      bgColor: default
+      highlightColor: "#FF88DC"
+      counterColor: "#FF61C7"
+      filterColor: "#AD7EFF"
+    border:
+      fgColor: "#8A2BE2"
+      focusColor: "#FF61C7"
+    menu:
+      fgColor: "#D68EFF"
+      keyColor: "#FF88DC"
+      numKeyColor: "#FF61C7"
+      descriptionColor: "#AD7EFF"
+    crumbs:
+      fgColor: "#8A2BE2"
+      bgColor: default
+      activeColor: "#FF61C7"
+    status:
+      newColor: "#FF70A6"
+      modifyColor: "#9D4EDD"
+      addColor: "#8AFFE6"
+      errorColor: "#FF4E91"
+      highlightColor: "#FFB1E1"
+      killColor: "#9B1DFF"
+      completedColor: "#C6A0F6"
+
+  views:
+    table:
+      fgColor: "#F2B6EC"
+      bgColor: default
+      cursorFgColor: "#1A0F2E"
+      cursorBgColor: "#C560F7"
+      markColor: "#FF61C7"
+      header:
+        fgColor: "#C560F7"
+        bgColor: default
+        sorterColor: "#FF88DC"
+    xray:
+      fgColor: "#F2B6EC"
+      bgColor: default
+      cursorColor: "#C560F7"
+      cursorTextColor: "#1A0F2E"
+      graphicColor: "#FFB1E1"
+    yaml:
+      keyColor: "#FF61C7"
+      colonColor: "#AD7EFF"
+      valueColor: "#D16FFF"
+    logs:
+      fgColor: "#D68EFF"
+      bgColor: default
+      indicator:
+        fgColor: "#1A0F2E"
+        bgColor: default
+        toggleOnColor: "#C560F7"
+        toggleOffColor: "#5A4A78"
+    charts:
+      bgColor: default
+      chartBgColor: default
+      dialBgColor: default
+      defaultDialColors:
+        - "#C560F7"
+        - "#FF61C7"
+      defaultChartColors:
+        - "#FF70A6"
+        - "#AD7EFF"
+      resourceColors:
+        cpu:
+          - "#FF88DC"
+          - "#C560F7"
+        mem:
+          - "#D16FFF"
+          - "#FF61C7"
