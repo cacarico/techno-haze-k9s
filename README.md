@@ -1,6 +1,11 @@
 # Techno Haze skin for K9s
 
-![Image](images/k9s.png)
+![Image](images/techno-haze-k9s-night.png)
+
+<details>
+  <summary>☀️ Day</summary>
+  <img src="images/techno-haze-k9s-day.png"/>
+</details>
 
 ## Install
 
@@ -17,5 +22,6 @@ Then add it to you k9s config `~/.config/k9s/config.yaml`
 ```yaml
 k9s:
   ui:
-    skin: techno-haze
+    skin: techno-haze-night
+    #skin: techno-haze-day
 ```
