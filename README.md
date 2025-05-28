@@ -1,9 +1,10 @@
 # Techno Haze skin for K9s
 
+Night Theme 🌚
 ![Image](images/techno-haze-k9s-night.png)
 
 <details>
-  <summary>☀️ Day</summary>
+  <summary>Day Theme 🌞</summary>
   <img src="images/techno-haze-k9s-day.png"/>
 </details>
 
