@@ -1,5 +1,5 @@
 # Techno Haze skin for K9s
 
-![Image](images/tehcnho-haze.yaml)
+![Image](images/k9s.yaml)
 
 ## Install
